@@ -117,3 +117,9 @@ A segurança da informação é fundamental para qualquer organização e envolv
 Além disso, ferramentas como checksums são úteis para garantir a integridade dos dados, ajudando a detectar qualquer modificação não autorizada.
 
 Ao seguir esses conceitos e boas práticas, empresas podem reduzir riscos e garantir a proteção de suas informações.
+
+---
+
+### Aprenda mais
+
+- [Learning About the McCumber Cube](https://zerostackengineer.hashnode.dev/learning-about-the-mccumber-cube) 
