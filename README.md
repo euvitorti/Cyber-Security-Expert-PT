@@ -1,6 +1,20 @@
 # Documentação em Cibersegurança: Roadmap.sh & TryHackMe
 
-Bem-vindo ao repositório que documenta meus estudos em cibersegurança, fundamentados no [roadmap.sh de Cyber Security](https://roadmap.sh/cyber-security) e nos desafios do TryHackMe. Aqui, você encontrará um compilado de anotações, referências e práticas que englobam tanto a teoria quanto a aplicação prática dos conceitos de cibersegurança.
+Bem-vindo ao repositório que documenta meus estudos em cibersegurança, fundamentados no [roadmap.sh de Cyber Security](https://roadmap.sh/cyber-security), nos desafios do TryHackMe e nos cursos da Cisco. Aqui, você encontrará um compilado de anotações, referências e práticas que englobam tanto a teoria quanto a aplicação prática dos conceitos de cibersegurança.
+
+---
+
+## ⚠️ Aviso Importante
+
+Este repositório é uma documentação pessoal dos meus estudos em cibersegurança, baseada em conteúdos que venho aprendendo por meio de plataformas como Cisco Networking Academy, TryHackMe e roadmap.sh.
+
+- Todo o conteúdo aqui foi reescrito com minhas próprias palavras, com o objetivo de reforçar o aprendizado, facilitar revisões futuras e, quem sabe, ajudar outras pessoas que estejam estudando os mesmos temas.
+
+- ❗ Este repositório não substitui os cursos originais, nem pretende reproduzir integralmente os materiais das plataformas. Para uma formação completa e certificada, recomendo fortemente a realização dos cursos diretamente nas plataformas oficiais.
+
+- 🧠 Aprender, praticar e compartilhar faz parte da jornada. Sinta-se à vontade para explorar, contribuir ou sugerir melhorias!
+
+---
 
 ## Conteúdo do Repositório
 
