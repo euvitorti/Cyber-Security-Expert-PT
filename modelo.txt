@@ -1,0 +1,10 @@
+Por favor, faça uma análise do conteúdo fornecido e, de forma dissertativa, desenvolva uma explicação clara e concisa. Explique os pontos principais, forneça exemplos onde necessário para facilitar o entendimento e, ao final, apresente uma conclusão. Não é necessário copiar o conteúdo original, apenas use-o como base para o desenvolvimento. O objetivo é oferecer uma análise estruturada, utilizando Markdown de forma adequada.
+
+Instruções para o formato:
+
+Mantenha os marcadores Markdown visíveis no texto (como #, -, *, etc.), sem renderizar o conteúdo.
+
+Não altere a estrutura Markdown de nenhuma maneira (não renderize ou altere a formatação).
+
+Retorne o conteúdo apenas com os marcadores visíveis no formato de texto puro, como se estivesse em um editor Mablocrkdown. Conteúdo:
+
